@@ -48,5 +48,23 @@
 		"title": "Rethemer",
 		"description": "A recoloring tool for alternate themes",
 		"repo": "Photonic2790/Rethemer"
+	},
+	{
+		"title": "Playtime Remaining",
+		"image_url": "https://raw.githubusercontent.com/amosjerbi/muOS_Apps/main/downloader_pics/playtime_remaining.png",
+		"description": "A muOS application that allows you to check game completion times from HowLongToBeat.com directly on your handheld device. Search for games, view completion times, and get detailed information about your favorite games.",
+		"repo": "amosjerbi/muOS_Apps"
+	},
+	{
+		"title": "WiFi Manager",
+		"image_url": "https://raw.githubusercontent.com/amosjerbi/muOS_Apps/main/downloader_pics/wifi_manager.png",
+		"description": "A muOS application for managing WiFi connections on your handheld device. Easily connect to WiFi networks, view saved networks, and manage your wireless connections.",
+		"repo": "amosjerbi/muOS_Apps"
+	},
+	{
+		"title": "SD Card Transfer",
+		"image_url": "https://raw.githubusercontent.com/amosjerbi/muOS_Apps/main/downloader_pics/sdcard_transfer.png",
+		"description": "A utility tool for muOS that helps with data migration and system management. Transfer data between devices and manage system settings efficiently.",
+		"repo": "amosjerbi/muOS_Apps"
 	}
 ]
