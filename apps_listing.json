@@ -55,7 +55,6 @@
 		"description": "A simple, intuitive and kid-friendly MP3 player for retro-handhelds.",
 		"repo": "pcorbel/storiies",
 		"gallery": [
-			"https://raw.githubusercontent.com/pcorbel/storiies/main/.github/albums.png",
 			"https://raw.githubusercontent.com/pcorbel/storiies/main/.github/tracks.png",
 			"https://raw.githubusercontent.com/pcorbel/storiies/main/.github/player.png"
 		]
