@@ -1,7 +1,7 @@
 #!/bin/bash
 VERSION=$(grep 'config/version=' project/project.godot | sed -E 's/^config\/version="([^"]+)"/v\1/')
 APP_NAME="App Downloader"
-APP_DIR="mnt/mmc/MUOS/application/${APP_NAME}"
+APP_DIR="application/${APP_NAME}"
 ARCHIVE_NAME="App_Downloader"
 GLYPH_DIR="opt/muos/default/MUOS/theme/active/glyph/muxapp"
 
